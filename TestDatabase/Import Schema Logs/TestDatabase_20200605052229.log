@@ -1,0 +1,10 @@
+05-06-2020 10:52:29 AM	This log contains information about the import schema operation into project 'TestDatabase' on computer 'LAPTOP-UTIUB3SB' by user 'Pooja'.
+05-06-2020 10:52:30 AM	Deserializing model
+05-06-2020 10:52:30 AM	Resolving model
+05-06-2020 10:52:30 AM	Visiting imported model for types
+05-06-2020 10:52:31 AM	Scanning project for duplicate elements
+05-06-2020 10:52:31 AM	Finished duplicate element processing
+05-06-2020 10:52:33 AM	Processing extra files
+05-06-2020 10:52:33 AM	Finished importing Data-tier Application file.
+05-06-2020 10:52:33 AM	A summary of the import was saved to the following location: C:\Users\Pooja\source\repos\TestDatabase\TestDatabase\Import Schema Logs\TestDatabase_20200605052229.log
+05-06-2020 10:52:33 AM	Click Finish to continue...
